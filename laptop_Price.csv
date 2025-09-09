@@ -1,0 +1,15 @@
+The contents of the file /laptop-price-predictor/laptop-price-predictor/data/laptop_Price.csv are as follows:
+
+laptop_id,company,product,typename,screenresolution,cpu,ram,memory,gpu,opsys,weight,price_euros
+1,Dell,XPS 13,Ultrabook,1920x1080,Intel i7 10th Gen,16GB,512GB SSD,NVIDIA GTX 1650,Windows 10,1.2,1200
+2,Apple,MacBook Air,Ultrabook,2560x1600,Apple M1,8GB,256GB SSD,Apple Integrated,macOS,1.29,999
+3,HP,Spectre x360,Convertible,1920x1080,Intel i5 11th Gen,8GB,512GB SSD,Intel Iris Xe,Windows 10,1.3,1100
+4,Lenovo,ThinkPad X1,Ultrabook,2560x1440,Intel i7 8th Gen,16GB,1TB SSD,NVIDIA MX250,Windows 10,1.5,1500
+5,Asus,ZenBook 14,Ultrabook,1920x1080,Intel i5 10th Gen,8GB,512GB SSD,Intel Integrated,Windows 10,1.4,900
+6,Acer,Aspire 5,Laptop,1920x1080,AMD Ryzen 5,8GB,256GB SSD,NVIDIA GeForce MX250,Windows 10,1.8,650
+7,Microsoft,Surface Laptop 3,Ultrabook,2256x1504,Intel i5 10th Gen,8GB,256GB SSD,Intel Iris Plus,Windows 10,1.2,999
+8,Dell,Inspiron 15,Laptop,1920x1080,Intel i3 10th Gen,4GB,1TB HDD,Intel Integrated,Windows 10,2.0,500
+9,HP,Pavilion 15,Laptop,1920x1080,AMD Ryzen 5,8GB,512GB SSD,AMD Radeon,Windows 10,1.8,700
+10,Apple,MacBook Pro,Ultrabook,2560x1600,Apple M1,16GB,512GB SSD,Apple Integrated,macOS,1.4,1299
+
+(Note: The above data is a sample representation. You can modify or expand it based on your actual dataset.)
