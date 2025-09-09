@@ -56,6 +56,18 @@ This will open a new tab in your web browser where you can input laptop specific
 
 If you would like to contribute to this project, please fork the repository and submit a pull request with your changes.
 
+## GROUP MEMBERS 
+EMAH ETIDO UDOFIA 22/EG/CO/1674 
+ONELE CHRISTIAN MMADUABUCHI 22/EG/CO/1687
+ Nkanga Charles Inyang 22/EG/CO/1691
+ Atu Emmanuel Ebingosowo  22/EG/CO/1678
+ EMAH ETIDO UDOFIA 22/EG/CO/1674
+ DIVINE INNOCENT UDOKA 22/EG/CO/1683
+ AZU JACOB OBIAJURU  22/EG/CO/1693
+ ONELE CHRISTIAN MMADUABUCHI  22/EG/CO/1687
+ OTUNG ANDIKAN BERNARD 22/EG/CO/1688
+ EDET ABASIAMA SUNDAY 22/EG/CO/1675
+
 ## License
 
 This project is licensed under the MIT License. See the LICENSE file for more details.
